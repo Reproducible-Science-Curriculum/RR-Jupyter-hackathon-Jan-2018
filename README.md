@@ -27,6 +27,9 @@ In this hackathon, we'll work towards getting individual lessons to a state wher
 plan to work on during the hackathon.
 
 **January 9, 2018**
+
+| Time | Activity |
+| ----- | --------- |
 | 9am | Welcome and introductions |
 | 9:30am | Overview of current status of the lessons and clarifications |
 | 10:00am | Overview of the template we'll be using for lessons |
@@ -38,10 +41,14 @@ plan to work on during the hackathon.
 | 5:00pm | Finish for the day |
 
 **January 10, 2018**
+
+| Time | Activity |
+| ----- | --------- |
 | 9am | Meet and address any questions or clarifications |
 | 9:30am | Lesson groups: Lesson development |
 | 11:30 | Regroup: updates from each lesson group |
 | 12:00 | Finish for the day |
+
 *People are welcome to stay past noon for more work if interested.*
 
 
