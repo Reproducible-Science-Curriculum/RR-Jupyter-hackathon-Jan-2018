@@ -1,8 +1,8 @@
 # RR-Jupyter-hackathon-Jan-2018
 
-Curriculum Development Hackathon on Reproducible Research using Jupyter Notebooks, to be held Jan 9-10, 2018 at BIDS in Berkeley, CA 
+### Reproducible Research using Jupyter Notebooks: Curriculum Development Hackathon
 
-# Reproducible Research using Jupyter Notebooks: Curriculum Development Hackathon
+Curriculum Development Hackathon on Reproducible Research using Jupyter Notebooks, to be held Jan 9-10, 2018 at BIDS in Berkeley, CA 
 
 - **Goal:** Continue development of the Reproducible Research with the Jupyter notebook curriculum, started at the [first hackathon](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-Hackathon-Jan-2017)
 - **Location:** Berkeley Institute for Data Science (BIDS), Berkeley, CA. 190 Doe Library
