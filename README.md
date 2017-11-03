@@ -1,6 +1,6 @@
 # RR-Jupyter-hackathon-Jan-2018
 
-### Reproducible Research using Jupyter Notebooks: Curriculum Development Hackathon
+### Reproducible Research using Jupyter Notebooks: Curriculum Development Hackathon v 2.0
 
 Curriculum Development Hackathon on Reproducible Research using Jupyter Notebooks, to be held Jan 9-10, 2018 at BIDS in Berkeley, CA 
 
