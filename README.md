@@ -40,6 +40,8 @@ plan to work on during the hackathon.
 | 4:30pm | Regroup: Short updates and clarifications |
 | 5:00pm | Finish for the day |
 
+Group dinner: 6pm, Jupiter (where else? 😄)
+
 **January 10, 2018**
 
 | Time | Activity |
