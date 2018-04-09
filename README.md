@@ -17,7 +17,7 @@ Curriculum Development Hackathon on Reproducible Research using Jupyter Notebook
 
 An initial workshop was outlined at the first hackathon.
 
-[Reproducible Research using Jupyter Notebooks:Workshop Overview](https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/)
+[Reproducible Research using Jupyter Notebooks:Workshop Overview](https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/)
 
 In this hackathon, we'll work towards getting individual lessons to a state where they can be taught and have a 1.0 beta release of the lessons. The hackathon will be followed by teaching this curriculum at UC Merced January 11-12, 2018.
 
